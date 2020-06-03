@@ -1,0 +1,7 @@
+
+.vscode
+vendor
+.idea
+.DS_Store
+cdrs.csv
+*.csv
